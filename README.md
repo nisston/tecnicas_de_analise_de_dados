@@ -37,6 +37,12 @@ O minicurso abrange os seguintes tópicos:
 - `slides/` - Apresentações em PDF
 - `leituras/` - Referências e materiais complementares
 
+## Exemplos práticos
+
+- [Exemplo - Estatística Descritiva](https://colab.research.google.com/drive/1xV4mLrbbSruExmHZC7SeWWd6xvD0cFHs?usp=sharing)
+- [Exemplo - Estatística Inferencial](https://drive.google.com/file/d/1flYQrX0g5xK7gMxGri3sDBIhawgH3nzW/view?usp=sharing)
+- [Exemplo - Análise Exploratória](https://colab.research.google.com/drive/1gx9IFyh77xIWHMRnO0B_dR53-4u7pkPQ?usp=sharing)
+
 ## Como Utilizar
 
 1. Clone este repositório:  
