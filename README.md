@@ -1,4 +1,4 @@
-# Minicurso: Técnicas de Análise de Dados Quantitativos
+# Técnicas de Análise de Dados Quantitativos
 
 Este repositório contém todo o material utilizado no minicurso **Técnicas de Análise de Dados Quantitativos**. O objetivo deste minicurso é apresentar conceitos fundamentais e ferramentas essenciais para a análise de dados na pesquisa acadêmica, permitindo que os participantes compreendam e apliquem técnicas estatísticas para obter insights relevantes a partir dos dados.
 
